@@ -1,5 +1,8 @@
-# Heater-control-system
-Heater Control System
+#Heater Control System
+Name- Swaraj Wanjale
+Department- Computer Engineering
+Roll no.- 52
+Division - CE2
 1. Research 
 In this activity, we will simulate the control of a heater using a C program. The goal of this program is to create a simple on/off control system, where the user can either turn the heater on or off based on their input. The program will take an input as either 0 or 1
 0 to turn the heater OFF
@@ -40,6 +43,8 @@ OUTPUT
 Enter 0 to turn off the heater or 1 to turn on the heater 
 1
 Heater is turned on
-
-6. Conclusion
-In this activity, we successfully developed a simple heater control system in C that takes user input to turn the heater on or off. By taking 0 or 1 as input  to switch off or on the heater. 
+6. Implementation
+The project is published on google for easy access to the code.
+Link: https://github.com/Swaraj-web27/Heater-control-system/blob/main/README.md
+7. Conclusion
+In this activity, we successfully developed a simple heater control system in C that takes user input to turn the heater on or off. By taking 0 or 1 as input  to switch off or on the heater. The project also highlights the importance of input validation and user friendly messaging software development.
